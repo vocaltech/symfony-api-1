@@ -1,1 +1,1 @@
-### PHP workshop
+### REST web service using Symfony
